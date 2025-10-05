@@ -1,4 +1,4 @@
-# Chioma Journal AI
+# Health AI Agent
 
 This repository provides an advanced insurance benefits analysis system powered by AI, designed to help users maximize their mental health and paramedical coverage. The system extracts, analyzes, and provides actionable recommendations based on insurance documents, with support for PDF extraction, benefit tracking, and AI-driven insights.
 
@@ -120,8 +120,7 @@ graph TB
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed for InnerCompass
 
 ## Contact
 
-For questions or feedback, please contact [techbyfoundation](mailto:info@techbyfoundation.com).
