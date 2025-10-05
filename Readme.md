@@ -4,7 +4,7 @@ This repository provides an advanced insurance benefits analysis system powered 
 
 ## Project Overview
 
-The workflow in `src/agent/graph.py` runs as a four-stage LangGraph pipeline that turns conversational plan details into tailored guidance:
+The workflow in `agent/graph.py` runs as a four-stage LangGraph pipeline that turns conversational plan details into tailored guidance:
 
 1. **Data Entry Agent**
    - Collects raw insurance plan facts from the user conversation
@@ -93,8 +93,6 @@ graph TB
 1. **Setup Environment**
    ```bash
    # Clone repository
-   git clone https://github.com/techbyfoundation/chioma-journal-ai.git
-   cd chioma-journal-ai
 
    # Create Python environment with UV
    uv venv
@@ -120,7 +118,8 @@ graph TB
 
 ## License
 
-This project is licensed for InnerCompass
+This project has license implication
 
 ## Contact
+
 
